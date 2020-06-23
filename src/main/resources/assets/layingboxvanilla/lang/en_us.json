@@ -1,5 +1,8 @@
 {
   "item.layingboxvanilla.lava_nugget": "Lava Nugget",
+  "item.layingboxvanilla.diamond_shard": "Diamond Shard",
+  "item.layingboxvanilla.emerald_shard": "Emerald Shard",
+  "item.layingboxvanilla.seed_collection": "Seed Collection",
 
 
   "entity.layingbox.resource_chicken.dirt": "Dirty Chicken",
