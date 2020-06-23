@@ -7,14 +7,14 @@
     ],
     "key": {
         "#": {
-            "item": "layingbox:lava_nugget"
+            "item": "minecraft:snowball"
         },
         "B": {
             "item": "minecraft:bucket"
         }
     },
     "result": {
-        "item": "minecraft:lava_bucket",
+        "item": "minecraft:water_bucket",
         "count": 1
     }
 }
