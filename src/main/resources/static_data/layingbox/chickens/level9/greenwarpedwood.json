@@ -1,0 +1,8 @@
+{
+  "base_color": 4533596,
+  "accent_color": 1146982,
+  "dropItem": "minecraft:warped_stem",
+  "parent1": "layingbox:resource_chicken.redwarpedwood",
+  "parent2": "layingbox:resource_chicken.enderman",
+  "accent_texture":"layingbox:textures/entity/chicken/streaks.png"
+}

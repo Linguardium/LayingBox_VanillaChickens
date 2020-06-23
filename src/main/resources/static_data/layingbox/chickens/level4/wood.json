@@ -1,0 +1,9 @@
+{
+  "base_color": 6770732,
+  "accent_color": 11898192,
+  "dropItem": "minecraft:oak_log",
+  "parent1": "layingbox:resource_chicken.seed",
+  "parent2": "layingbox:resource_chicken.grass",
+  "accent_texture":"layingbox:textures/entity/chicken/speckled.png"
+
+}

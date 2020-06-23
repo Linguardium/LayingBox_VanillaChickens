@@ -1,0 +1,7 @@
+{
+  "base_color": 9858122,
+  "accent_color": 6990400,
+  "dropItem": "minecraft:grass_block",
+  "parent1": "layingbox:resource_chicken.dirt",
+  "parent2": "layingbox:resource_chicken.grass"
+}

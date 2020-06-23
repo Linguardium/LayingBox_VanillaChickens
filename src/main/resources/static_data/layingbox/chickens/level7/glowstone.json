@@ -1,0 +1,8 @@
+{
+  "base_color": 7292194,
+  "accent_color": 16505460,
+  "dropItem": "minecraft:glowstone_dust",
+  "parent1": "layingbox:resource_chicken.redstone",
+  "parent2": "layingbox:resource_chicken.gold",
+  "accent_texture":"layingbox:textures/entity/chicken/spots_large.png"
+}

@@ -1,0 +1,7 @@
+{
+  "base_color": 7976875,
+  "accent_color": 2521675,
+  "dropItem": "minecraft:prismarine_shard",
+  "parent1": "layingbox:resource_chicken.water",
+  "parent2": "layingbox:resource_chicken.iron"
+}

@@ -1,0 +1,7 @@
+{
+  "base_color":4813109,
+  "accent_color": 43176,
+  "dropItem": "minecraft:rotten_flesh",
+  "parent1": "layingbox:resource_chicken.dirt",
+  "parent2": "layingbox:resource_chicken.dirt"
+}

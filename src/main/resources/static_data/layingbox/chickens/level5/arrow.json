@@ -1,0 +1,7 @@
+{
+  "base_color": 11898192,
+  "accent_color": 1051676,
+  "dropItem": "minecraft:arrow",
+  "parent1": "layingbox:resource_chicken.gravel",
+  "parent2": "layingbox:resource_chicken.wood"
+}

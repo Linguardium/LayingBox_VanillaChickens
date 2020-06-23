@@ -1,0 +1,8 @@
+{
+  "base_color": -1,
+  "accent_color": 4210752,
+  "dropItem": "minecraft:leather",
+  "parent1": "layingbox:resource_chicken.grassblock",
+  "parent2": "layingbox:resource_chicken.grassblock",
+  "accent_texture":"layingbox:textures/entity/chicken/spots_large.png"
+}

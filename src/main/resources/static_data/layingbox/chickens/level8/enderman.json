@@ -1,0 +1,7 @@
+{
+  "base_color": 3447176,
+  "accent_color": 407857,
+  "dropItem": "minecraft:ender_pearl",
+  "parent1": "layingbox:resource_chicken.obsidian",
+  "parent2": "layingbox:resource_chicken.glowstone"
+}

@@ -1,0 +1,7 @@
+{
+  "base_color": 7483954,
+  "accent_color": 5313813,
+  "dropItem": "minecraft:netherrack",
+  "parent1": "layingbox:resource_chicken.obsidian",
+  "parent2": "layingbox:resource_chicken.iron"
+}

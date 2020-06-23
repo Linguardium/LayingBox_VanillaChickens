@@ -1,0 +1,8 @@
+{
+  "base_color": 5647422,
+  "accent_color": 8982287,
+  "dropItem": "minecraft:crimson_stem",
+  "parent1": "layingbox:resource_chicken.netherrack",
+  "parent2": "layingbox:resource_chicken.wood",
+  "accent_texture":"layingbox:textures/entity/chicken/magma.png"
+}

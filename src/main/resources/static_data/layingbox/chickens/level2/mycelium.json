@@ -1,0 +1,7 @@
+{
+  "base_color": 9858122,
+  "accent_color": 7561570,
+  "dropItem": "minecraft:mycelium",
+  "parent1": "layingbox:resource_chicken.dirt",
+  "parent2": "layingbox:resource_chicken.water"
+}

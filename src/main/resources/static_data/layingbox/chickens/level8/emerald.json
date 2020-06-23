@@ -1,0 +1,7 @@
+{
+  "base_color": 1564002,
+  "accent_color": 11533773,
+  "dropItem": "layingboxvanilla:emerald_shard",
+  "parent1": "layingbox:resource_chicken.diamond",
+  "parent2": "layingbox:resource_chicken.grass"
+}

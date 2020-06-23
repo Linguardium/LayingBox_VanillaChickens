@@ -1,0 +1,8 @@
+{
+  "base_color": 7483954,
+  "accent_color": 13258246,
+  "dropItem": "layingboxvanilla:lava_nugget",
+  "parent1": "layingbox:resource_chicken.stone",
+  "parent2": "layingbox:resource_chicken.stone",
+  "accent_texture":"layingbox:textures/entity/chicken/lava.png"
+}

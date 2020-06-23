@@ -1,0 +1,7 @@
+{
+  "base_color": 16777141,
+  "accent_color": 16297771,
+  "dropItem": "minecraft:gold_nugget",
+  "parent1": "layingbox:resource_chicken.iron",
+  "parent2": "layingbox:resource_chicken.lava"
+}

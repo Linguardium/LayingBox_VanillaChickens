@@ -1,0 +1,7 @@
+{
+  "base_color": 2630174,
+  "accent_color": 3932674,
+  "dropItem": "minecraft:nether_wart",
+  "parent1": "layingbox:resource_chicken.mycelium",
+  "parent2": "layingbox:resource_chicken.netherrack"
+}

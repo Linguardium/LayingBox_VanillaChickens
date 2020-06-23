@@ -1,0 +1,8 @@
+{
+  "base_color": 16762495,
+  "accent_color": 14971397,
+  "dropItem": "minecraft:shroomlight",
+  "parent1": "layingbox:resource_chicken.mycelium",
+  "parent2": "layingbox:resource_chicken.glowstone",
+  "accent_texture":"layingbox:textures/entity/chicken/lava.png"
+}

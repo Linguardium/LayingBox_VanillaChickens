@@ -1,0 +1,8 @@
+{
+  "base_color": 7500402,
+  "accent_color": 5658198,
+  "dropItem": "minecraft:cobblestone",
+  "parent1": "layingbox:resource_chicken.gravel",
+  "parent2": "layingbox:resource_chicken.gravel"
+
+}

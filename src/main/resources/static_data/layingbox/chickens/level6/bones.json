@@ -1,0 +1,7 @@
+{
+  "base_color": "9474192",
+  "accent_color": "9474192",
+  "dropItem": "minecraft:bone_meal",
+  "parent1": "layingbox:resource_chicken.arrow",
+  "parent2": "layingbox:resource_chicken.string"
+}

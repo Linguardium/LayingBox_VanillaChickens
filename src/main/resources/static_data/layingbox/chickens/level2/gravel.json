@@ -1,0 +1,8 @@
+{
+  "base_color": 9474192,
+  "accent_color": 9474192,
+  "dropItem": "minecraft:gravel",
+  "parent1": "layingbox:resource_chicken.dirt",
+  "parent2": "layingbox:resource_chicken.water",
+  "accent_texture":"layingbox:textures/entity/chicken/speckled.png"
+}

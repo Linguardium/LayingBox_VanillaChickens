@@ -1,0 +1,9 @@
+{
+  "base_color": 6990400,
+  "accent_color": 5279782,
+  "dropItem": "minecraft:grass",
+  "parent1": "layingbox:resource_chicken.dirt",
+  "parent2": "layingbox:resource_chicken.water",
+  "accent_texture":"layingbox:textures/entity/chicken/speckled.png"
+
+}

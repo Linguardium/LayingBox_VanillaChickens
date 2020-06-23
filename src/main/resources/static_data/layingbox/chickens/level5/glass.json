@@ -1,0 +1,8 @@
+{
+  "base_color": 13882323,
+  "accent_color": 10277325,
+  "dropItem": "minecraft:glass",
+  "parent1": "layingbox:resource_chicken.sand",
+  "parent2": "layingbox:resource_chicken.lava",
+  "accent_texture":"layingbox:textures/entity/chicken/speckled.png"
+}

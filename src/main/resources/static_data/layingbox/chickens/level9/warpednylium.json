@@ -1,0 +1,7 @@
+{
+  "base_color": 7483954,
+  "accent_color": 1356933,
+  "dropItem": "layingbox:warped_nylium",
+  "parent1": "layingbox:resource_chicken.greenwarpedwood",
+  "parent2": "layingbox:resource_chicken.mycelium"
+}

@@ -1,0 +1,8 @@
+{
+  "base_color": 1051676,
+  "accent_color": 3876692,
+  "dropItem": "minecraft:obsidian",
+  "parent1": "layingbox:resource_chicken.water",
+  "parent2": "layingbox:resource_chicken.lava",
+  "accent_texture":"layingbox:textures/entity/chicken/speckled.png"
+}

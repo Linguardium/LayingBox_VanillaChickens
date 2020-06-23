@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "layingboxvanilla:item/lava_nugget"
+  }
+}
