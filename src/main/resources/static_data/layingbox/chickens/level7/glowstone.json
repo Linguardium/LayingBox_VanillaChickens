@@ -4,5 +4,8 @@
   "dropItem": "minecraft:glowstone_dust",
   "parent1": "layingbox:resource_chicken.redstone",
   "parent2": "layingbox:resource_chicken.gold",
-  "accent_texture":"layingbox:textures/entity/chicken/spots_large.png"
+  "accent_texture":"layingbox:textures/entity/chicken/spots_large.png",
+  "favored_biome_tags": [
+    "c:nether"
+  ]
 }

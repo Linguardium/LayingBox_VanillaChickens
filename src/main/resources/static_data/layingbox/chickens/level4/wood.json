@@ -5,5 +5,4 @@
   "parent1": "layingbox:resource_chicken.seed",
   "parent2": "layingbox:resource_chicken.grass",
   "accent_texture":"layingbox:textures/entity/chicken/speckled.png"
-
 }

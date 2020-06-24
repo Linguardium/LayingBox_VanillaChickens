@@ -2,5 +2,8 @@
   "base_color": 1144351,
   "accent_color": 5991183,
   "dropItem": "layingboxvanilla:seed_collection",
-  "parent1": "layingbox:resource_chicken.grass"
+  "parent1": "layingbox:resource_chicken.grass",
+  "favored_biome_tags": [
+    "c:fields"
+  ]
 }

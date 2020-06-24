@@ -4,5 +4,9 @@
   "dropItem": "minecraft:magma_block",
   "parent1": "layingbox:resource_chicken.dirt",
   "parent2": "layingbox:resource_chicken.lava",
-  "accent_texture":"layingbox:textures/entity/chicken/magma.png"
+  "accent_texture":"layingbox:textures/entity/chicken/magma.png",
+  "favored_biome_tags": [
+    "c:hot",
+    "c:oceans"
+  ]
 }

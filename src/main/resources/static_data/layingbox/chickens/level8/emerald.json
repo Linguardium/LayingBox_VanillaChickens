@@ -3,5 +3,8 @@
   "accent_color": 11533773,
   "dropItem": "layingboxvanilla:emerald_shard",
   "parent1": "layingbox:resource_chicken.diamond",
-  "parent2": "layingbox:resource_chicken.grass"
+  "parent2": "layingbox:resource_chicken.grass",
+  "favored_biome_tags": [
+    "c:mountains"
+  ]
 }

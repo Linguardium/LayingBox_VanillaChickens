@@ -3,6 +3,8 @@
   "accent_color": 13480281,
   "dropItem": "minecraft:sand",
   "parent1": "layingbox:resource_chicken.gravel",
-  "parent2": "layingbox:resource_chicken.gravel"
-
+  "parent2": "layingbox:resource_chicken.gravel",
+  "favored_biome_tags": [
+    "c:sandy"
+  ]
 }

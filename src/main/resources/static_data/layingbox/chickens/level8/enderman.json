@@ -3,5 +3,8 @@
   "accent_color": 407857,
   "dropItem": "minecraft:ender_pearl",
   "parent1": "layingbox:resource_chicken.obsidian",
-  "parent2": "layingbox:resource_chicken.glowstone"
+  "parent2": "layingbox:resource_chicken.glowstone",
+  "favored_biome_tags": [
+    "c:end"
+  ]
 }

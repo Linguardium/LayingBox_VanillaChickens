@@ -4,5 +4,8 @@
   "dropItem": "minecraft:warped_stem",
   "parent1": "layingbox:resource_chicken.redwarpedwood",
   "parent2": "layingbox:resource_chicken.enderman",
-  "accent_texture":"layingbox:textures/entity/chicken/streaks.png"
+  "accent_texture":"layingbox:textures/entity/chicken/streaks.png",
+  "favored_biome_tags": [
+    "c:nether"
+  ]
 }

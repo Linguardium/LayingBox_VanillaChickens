@@ -3,5 +3,8 @@
   "accent_color": 4267541,
   "dropItem": "minecraft:ancient_debris",
   "parent1": "layingbox:resource_chicken.diamond",
-  "parent2": "layingbox:resource_chicken.enderman"
+  "parent2": "layingbox:resource_chicken.enderman",
+  "favored_biome_tags": [
+    "c:nether"
+  ]
 }

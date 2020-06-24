@@ -3,5 +3,9 @@
   "accent_color": 7561570,
   "dropItem": "minecraft:mycelium",
   "parent1": "layingbox:resource_chicken.dirt",
-  "parent2": "layingbox:resource_chicken.water"
+  "parent2": "layingbox:resource_chicken.water",
+  "favored_biome_tags": [
+    "c:swamps",
+    "c:mushroom_fields"
+  ]
 }

@@ -4,6 +4,8 @@
   "dropItem": "minecraft:grass",
   "parent1": "layingbox:resource_chicken.dirt",
   "parent2": "layingbox:resource_chicken.water",
-  "accent_texture":"layingbox:textures/entity/chicken/speckled.png"
-
+  "accent_texture":"layingbox:textures/entity/chicken/speckled.png",
+  "favored_biome_tags": [
+    "c:fields"
+  ]
 }

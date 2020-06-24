@@ -4,5 +4,9 @@
   "dropItem": "minecraft:leather",
   "parent1": "layingbox:resource_chicken.grassblock",
   "parent2": "layingbox:resource_chicken.grassblock",
-  "accent_texture":"layingbox:textures/entity/chicken/spots_large.png"
+  "accent_texture":"layingbox:textures/entity/chicken/spots_large.png",
+  "favored_biome_tags": [
+    "c:fields",
+    "c:grassy_forests"
+  ]
 }

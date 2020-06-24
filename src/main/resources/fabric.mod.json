@@ -23,6 +23,6 @@
   "depends": {
     "fabricloader": ">=0.8.8",
     "fabric": "*",
-    "layingbox": "*"
+    "layingbox": ">=1.0.1"
   }
 }

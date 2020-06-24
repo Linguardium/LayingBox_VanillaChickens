@@ -3,5 +3,8 @@
   "accent_color": 3932674,
   "dropItem": "minecraft:nether_wart",
   "parent1": "layingbox:resource_chicken.mycelium",
-  "parent2": "layingbox:resource_chicken.netherrack"
+  "parent2": "layingbox:resource_chicken.netherrack",
+  "favored_biome_tags": [
+    "c:nether"
+  ]
 }

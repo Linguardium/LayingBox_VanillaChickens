@@ -1,4 +1,7 @@
 {
   "accent_color": 8697560,
-  "dropItem": "minecraft:snowball"
+  "dropItem": "minecraft:snowball",
+  "favored_biome_tags": [
+      "c:snowy"
+  ]
 }

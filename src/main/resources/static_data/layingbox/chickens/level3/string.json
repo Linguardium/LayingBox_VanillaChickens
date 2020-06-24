@@ -3,5 +3,8 @@
   "accent_color": 3932674,
   "dropItem": "minecraft:cobweb",
   "parent1": "layingbox:resource_chicken.mycelium",
-  "parent2": "layingbox:resource_chicken.zombie"
+  "parent2": "layingbox:resource_chicken.zombie",
+  "favored_biome_tags": [
+    "c:all_biomes"
+  ]
 }

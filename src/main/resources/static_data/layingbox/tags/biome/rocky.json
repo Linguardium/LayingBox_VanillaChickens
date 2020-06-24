@@ -1,0 +1,25 @@
+{
+  "values": [
+    "mountains",
+    "taiga",
+    "snowy_mountains",
+    "taiga_hills",
+    "mountain_edge",
+    "stone_shore",
+    "snowy_taiga",
+    "snowy_taiga_hills",
+    "giant_tree_taiga",
+    "giant_tree_taiga_hills",
+    "badlands",
+    "badlands_plateau",
+    "wooded_badlands_plateau",
+    "gravelly_mountains",
+    "taiga_mountains",
+    "modified_gravelly_mountains",
+    "shattered_savanna",
+    "shattered_savanna_plateau",
+    "eroded_badlands",
+    "modified_wooded_badlands_plateau",
+    "modified_badlands_plateau"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "values": [
+    "desert",
+    "river",
+    "beach",
+    "deep_ocean",
+    "warm_ocean",
+    "lukewarm_ocean",
+    "deep_warm_ocean",
+    "deep_lukewarm_ocean",
+    "desert_lakes"
+  ]
+}

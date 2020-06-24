@@ -4,5 +4,8 @@
   "dropItem": "minecraft:crimson_stem",
   "parent1": "layingbox:resource_chicken.netherrack",
   "parent2": "layingbox:resource_chicken.wood",
-  "accent_texture":"layingbox:textures/entity/chicken/magma.png"
+  "accent_texture":"layingbox:textures/entity/chicken/magma.png",
+  "favored_biome_tags": [
+    "c:nether"
+  ]
 }

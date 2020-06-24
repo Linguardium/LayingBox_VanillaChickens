@@ -3,5 +3,8 @@
   "accent_color": 11280416,
   "dropItem": "layingbox:crimson_nylium",
   "parent1": "layingbox:resource_chicken.redwarpedwood",
-  "parent2": "layingbox:resource_chicken.mycelium"
+  "parent2": "layingbox:resource_chicken.mycelium",
+  "favored_biome_tags": [
+    "c:nether"
+  ]
 }
