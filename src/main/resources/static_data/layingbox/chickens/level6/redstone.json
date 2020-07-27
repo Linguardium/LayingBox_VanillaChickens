@@ -1,7 +1,7 @@
 {
   "base_color": 9704448,
   "accent_color": 15081480,
-  "dropItem": "minecraft:redstone_dust",
+  "dropItem": "minecraft:redstone",
   "parent1": "layingbox:resource_chicken.sand",
   "parent2": "layingbox:resource_chicken.iron"
 }
